@@ -1,16 +1,12 @@
-## Hi there 👋
+```console
+pxecore@github:~$ whoami
+pxecore
 
-<!--
-**florianpunz/florianpunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pxecore@github:~$ gpg --list-keys
+pub   ed25519/BB3AB4D42DB31862
+      BB3A B4D4 2DB3 1862
+uid   pxecore <you@example.com>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pxecore@github:~$ cat website.txt
+https://pxecore.github.io
+```
