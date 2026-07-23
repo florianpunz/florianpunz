@@ -16,7 +16,7 @@
    ┌───────────────┐        florian@github
    │  ==  florian  │        ──────────────
    ├───────────────┤        Role      : Network Technician
-   │ > OPNsense HA │        Location  : Salzburg, AT
+   │ > OPNsense HA │        Location  : Salzburg, Austria
    │ > Proxmox  VE │        Uptime    : 22 yrs, zero downtime
    │ > TrueNAS ZFS │        Shell     : bash · zsh · PowerShell
    │ > Docker      │        Infra     : Proxmox · TrueNAS · OPNsense HA
