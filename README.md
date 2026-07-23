@@ -1,17 +1,9 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Profile README for github.com/florianpunz                   ║
-  ║  Concept: a "boot up my homelab" terminal identity card.     ║
-  ║  Everything below renders on GitHub. Tweak freely.           ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=210&section=header&text=florianpunz&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Network%20Technician%20%7C%20Salzburg%2C%20AT&descSize=20&descAlignY=56" width="100%"/>
 
 <a href="https://miloo.at">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=560&lines=IT+Network+Technician+by+day;Homelab+sysadmin+by+night;22%2C+from+Salzburg+-+powered+by+curiosity;I+turn+caffeine+into+uptime" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=560&lines=Network+Technician+by+day;Homelab+sysadmin+by+night;22%2C+from+Salzburg+-+powered+by+curiosity;I+turn+caffeine+into+uptime" alt="typing intro"/>
 </a>
 
 </div>
@@ -23,8 +15,8 @@
 ```text
    ┌───────────────┐        florian@github
    │  ==  florian  │        ──────────────
-   ├───────────────┤        Role      : IT Network Technician
-   │ > OPNsense HA │        Location  : Salzburg, Austria
+   ├───────────────┤        Role      : Network Technician
+   │ > OPNsense HA │        Location  : Salzburg, AT
    │ > Proxmox  VE │        Uptime    : 22 yrs, zero downtime
    │ > TrueNAS ZFS │        Shell     : bash · zsh · PowerShell
    │ > Docker      │        Infra     : Proxmox · TrueNAS · OPNsense HA
@@ -100,12 +92,7 @@
 
 ### `$ git log --stat`
 
-<img src="https://github-readme-stats.vercel.app/api?username=florianpunz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianpunz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=florianpunz&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=florianpunz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
