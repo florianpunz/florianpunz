@@ -1,10 +1,8 @@
 ### Hi, I'm Florian 🐙
 
-System & network engineer located in Salzburg, Austria. For work I look after Linux and Windows infrastructure, Proxmox and networks, and build small tools around them — lately in Rust and Python.
-
+Systems engineer from Salzburg, Austria. I work with Linux, Windows, Proxmox and networks, and I like turning repetitive ops work into small tools, mostly in Rust and Python. <br>
+[**→ blog**](https://miloo.at)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
   <img alt="3D contribution graph" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
-
-[miloo.at](https://miloo.at)
